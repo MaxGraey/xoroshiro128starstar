@@ -14,10 +14,10 @@
 
 "assemblyscript@github:AssemblyScript/assemblyscript":
   version "0.5.0"
-  resolved "https://codeload.github.com/AssemblyScript/assemblyscript/tar.gz/d5f72e32d7e99cec3f8c37e6bb2916864706f4f0"
+  resolved "https://codeload.github.com/AssemblyScript/assemblyscript/tar.gz/d82995c6866dad16b905f477cd5d681355732cb6"
   dependencies:
     "@protobufjs/utf8" "^1.1.0"
-    binaryen "55.0.0-nightly.20181130"
+    binaryen "63.0.0-nightly.20190107"
     glob "^7.1.3"
     long "^4.0.0"
 
@@ -34,10 +34,10 @@ benchmark@^2.0.0:
     lodash "^4.17.4"
     platform "^1.3.3"
 
-binaryen@55.0.0-nightly.20181130:
-  version "55.0.0-nightly.20181130"
-  resolved "https://registry.yarnpkg.com/binaryen/-/binaryen-55.0.0-nightly.20181130.tgz#67159e12073d8195813057714754727320521b3d"
-  integrity sha512-RfMiI0vavw7Sy7KX8h1xOs4D3zp9nehmtE87DSfY6nXyd2EAdMwJ97tWdepuhOc6JWZsntOfzUA2fqu/sYTTLg==
+binaryen@63.0.0-nightly.20190107:
+  version "63.0.0-nightly.20190107"
+  resolved "https://registry.yarnpkg.com/binaryen/-/binaryen-63.0.0-nightly.20190107.tgz#b7b18f9251d2690908c30f79374761ce8f473ddd"
+  integrity sha512-vck6ZESU9q6DeEK9v/Fk2O8d2jBsSrNlia8jpmdLZv5eqmNWpkNli+QMRa9Ezfb4wi3c+NVMuxT3Ck0g9GYe8A==
 
 brace-expansion@^1.1.7:
   version "1.1.11"
